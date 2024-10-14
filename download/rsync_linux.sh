@@ -1,0 +1,1 @@
+rsync -P --rsh=ssh name@ip:path localpath

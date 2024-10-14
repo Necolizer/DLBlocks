@@ -1,0 +1,17 @@
+Class,Dataset,Average Picture Area,Number,Year,Month
+Supervised CLS,NEU-CLS,40000,1800,2013,11
+Supervised CLS,elpv-dataset,90000,2624,2018,11
+Supervised DET,NEU-DET,40000,1800,2019,5
+Supervised DET,Tianchi Fabric,4915200,20000,2021,3
+Supervised DET,Tianchi Tile,117600,24000,2021,9
+Supervised DET,GDXray Casting,252416,2727,2015,11
+Supervised DET,Deep PBC,409600,1500,2021,4
+Supervised SEG,NEU-Seg,40000,3630,2021,5
+Supervised SEG,KolektorSDD,627500,399,2019,5
+Supervised SEG,Magnetic Tile,152272,1344,2018,8
+Supervised SEG,Phone LGP SDD,50176,3280,2021,1
+Supervised SEG,RSDDs,68750,4356,2017,1
+Unsupervised SEG,MVTecAD,769288,5354,2021,1
+Unsupervised SEG,NanoTWICE,712704,45,2016,12
+Unsupervised SEG,AITEX,1048576,245,2019,6
+Weakly-supervised SEG,DAGM,262144,1150,2007,6
