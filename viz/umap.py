@@ -10,7 +10,6 @@ import random
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 import umap
-import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator, MultipleLocator
 import seaborn as sns
 import pandas as pd
